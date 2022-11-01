@@ -2,6 +2,7 @@
 Built as a project, analysing data from any .csv file to mine and analyse data to display useful data  to the user.
 
 Dataset 
+
 Secondary data has been used for this study which is downloaded from kaggle in the form of  a CSV file. The link for the dataset for the analysis is-  https://www.kaggle.com/llihan/australia-nsw-traffic-penalty-data-20112017. 
 If the  link is expired, please use my link from google drive-
 https://drive.google.com/drive/folders/1jN3jK9-ftRRIaSBcB_lmDsPL2OYhZ2LT?usp=sharing
