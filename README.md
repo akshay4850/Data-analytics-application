@@ -9,9 +9,11 @@ https://drive.google.com/drive/folders/1jN3jK9-ftRRIaSBcB_lmDsPL2OYhZ2LT?usp=sha
 
 
 EXECUTIVE SUMMARY
-Abstract
+
 With the advancement in technology a number of techniques are being developed that can be used for mining data. For that purpose, this study is conducted in which a graphical user interface is designed that helps in generating several useful insights. To obtain the results, tkinter python library has been used that provides the front end functionality in designing the interface for better visualization to discover the significant insights and patterns. There are various functions that are performed to complete the experimental process including data cleaning, extraction and visualizations. An executive summary and a unit testing report has been provided with this assignment which can be used for better understanding. 
+
 Introduction
+
 There are various functionalities that have been implemented that provide features in which options will be provided that assist in choosing the year for designing the visualization. Furthermore, there are various options are given to select the classes of the dataset to perform the analysis. The GUI provides dynamic features in which user can select various features and visualized patterns and discover the important insights to gather the necessary data.  
 Analysis 1 (Reporting the information of all penalty cases)
 
