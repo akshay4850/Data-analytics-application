@@ -6,6 +6,7 @@ With the advancement in technology a number of techniques are being developed th
 Introduction
 There are various functionalities that have been implemented that provide features in which options will be provided that assist in choosing the year for designing the visualization. Furthermore, there are various options are given to select the classes of the dataset to perform the analysis. The GUI provides dynamic features in which user can select various features and visualized patterns and discover the important insights to gather the necessary data.  
 Analysis 1 (Reporting the information of all penalty cases)
+![](images/Picture1.jpg)
  
 1.1-	This picture displays the working of fulfilling the functionality of reporting all the crimes in a particular time period. The user needs to click the visualize offence summary button to which will display a graph with all the indices in a separate window.
  
